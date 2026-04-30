@@ -12,6 +12,8 @@ This repository makes several assumptions as described in the contents below.
 
 Note that my actual nix-config has already deviated from this repository and will continue to do so over time. Depending on how much use this starter repo gets, I may try to keep it updated but there are no guarantees. Please feel free to let me know if you notice any issues or discrepancies. Contributions are welcome.
 
+**April 30, 2026:** this and other nix related repos by EmergentMind on GitHub are now mirrored from repos of the same name at [https://codeberg.org/EmergentMind/](https:bd://codeberg.org/EmergentMind/).
+
 ## Table of Contents
 
 - [How To Use](#how-to-use)
